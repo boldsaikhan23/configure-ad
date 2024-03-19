@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/nKkd5Vz.png" alt="Active Directory logo"/>
 </p>
 
-<h1>Active Directory</h1>
+<h1>Configuring On-premises Active Directory within Azure VMs</h1>
 How to deploy on-premises active directory and create users in azure.<br />
 <h2>Environments and Technologies Used</h2>
 
